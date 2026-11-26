@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+*_BurstDebugInformation_DoNotShip/
+*.csproj
+*.sln
+*.apk
+*.aab
+*.keystore
+*.jks
